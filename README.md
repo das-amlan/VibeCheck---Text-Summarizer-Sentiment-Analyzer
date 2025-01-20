@@ -1,4 +1,4 @@
-# VibeCheck
+# VibeCheck - Text Summarizer & Sentiment Analyzer
 
 ## Overview
 VibeCheck is a simple yet powerful web application that utilizes Natural Language Processing (NLP) to summarize text and analyze its sentiment. Built using the `Streamlit` framework and the Hugging Face Transformers library. VibeCheck provides users with insights into the tone and essence of their input text.
